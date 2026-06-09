@@ -69,16 +69,56 @@ Participants who complete an eligible skilling playlist during the Active Period
 
 For questions related to Microsoft AI Skills Fest, refer to the **AI Skills Navigator support resources**.
 
+## 🚀 How to Claim Your Free Voucher (Step-by-Step Guide)
+
+### Step 1 — Register on AI Skills Fest before June 12
+
+Go to [AI Skills Navigator](https://shorturl.at/EbE8G) and create or sign in to your account. Accept the Official Rules to register for AI Skills Fest.
+
+![Step 1 – Register on AI Skills Fest](images/ss1.png)
+
+---
+
+### Step 2 — Find an eligible skilling playlist
+
+Browse the AI Skills Fest playlists on AI Skills Navigator and pick one that interests you. Make sure it is marked as an eligible AI Skills Fest playlist.
+
+![Step 2 – Find a playlist](images/ss2.png)
+
+---
+
+### Step 3 — Complete the entire playlist
+
+Work through every module in the playlist without modifying or skipping anything. Once you finish, you will see a confirmation message:
+
+> **"Nice work — your completion has been recorded and may unlock voucher eligibility."**
+
+![Step 3 – Complete the playlist](images/ss3.png)
+
+---
+
+### Step 4 — Check what's unlocked and fill out the claim form
+
+After completing the playlist, click the link below to open the voucher claim page. Fill out the form with your details — the voucher is **not** sent automatically.
+
+[![Check what's unlocked](https://img.shields.io/badge/Check%20What's%20Unlocked-Claim%20Voucher-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://aka.ms/aiskillsfest/claim)
+
+![Step 4 – Fill out the claim form](images/ss4.png)
+
+Once submitted, watch your inbox for the voucher email. Your Credly digital badge will also arrive by **June 19, 2026**.
+
+---
+
 ## 📝 Step-by-Step Checklist
 
-1. ☐ Confirm you meet the age-of-majority requirement (or have guardian consent).
-2. ☐ Register and activate an AI Skills Navigator account.
-3. ☐ Acknowledge and agree to the Official Rules.
-4. ☐ Choose an eligible AI Skills Fest skilling playlist.
-5. ☐ Complete the entire playlist between June 8–12, 2026 (UTC) — do not edit/modify it.
-6. ☐ Submit the form with your information to trigger the voucher.
-7. ☐ Watch for the Credly badge email by June 19, 2026.
-8. ☐ Redeem the voucher before 12:00 AM UTC, August 11, 2026.
+1. Confirm you meet the age-of-majority requirement (or have guardian consent).
+2. Register and activate an AI Skills Navigator account.
+3. Acknowledge and agree to the Official Rules.
+4. Choose an eligible AI Skills Fest skilling playlist.
+5. Complete the entire playlist between June 8–12, 2026 (UTC) — do not edit/modify it.
+6. Submit the form with your information to trigger the voucher.
+7. Watch for the Credly badge email by June 19, 2026.
+8. Redeem the voucher before 12:00 AM UTC, August 11, 2026.
 
 ---
 
