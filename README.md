@@ -19,8 +19,9 @@ This repository tracks active and upcoming offers that let you claim free Micros
 
 | # | Opportunity | Status | Active Period | Reward | Details |
 |---|-------------|--------|---------------|--------|---------|
-| 1 | Microsoft AI Skills Fest 2026 – Free Certification Voucher Offer | 🟡 Ending soon | June 8–12, 2026 | 1 free certification exam voucher + 1 digital badge | [Get offer](./microsoft-ai-skills-fest-2026/README.md) |
-| 2 | Exam SC-500 (Beta) – 80% Off Discounted Beta Exam Offer | 🟡 Ending soon | On or before June 8, 2026 | 80% off Exam SC-500 (first 300 candidates) | [Get offer](./exam-sc-500-beta-discount-2026/README.md) |
+| 1 | Microsoft AI Skills Fest 2026 – Free Certification Voucher Offer | 🔴 Closed / Expired | June 8–12, 2026 | 1 free certification exam voucher + 1 digital badge | [Get offer](./microsoft-ai-skills-fest-2026/README.md) |
+| 2 | Exam SC-500 (Beta) – 80% Off Discounted Beta Exam Offer | 🔴 Closed / Expired | On or before June 8, 2026 | 80% off Exam SC-500 (first 300 candidates) | [Get offer](./exam-sc-500-beta-discount-2026/README.md) |
+| 3 | 60 Days of Data & AI – Free Fabric/SQL Certification Voucher (DP-600 / DP-700 / DP-800) | 🟢 Active | June 15 – August 10, 2026 | 100% discount voucher for DP-600, DP-700, or DP-800 | [Get offer](./fabric-dataday-free-certification-2026/README.md) |
 
 ### Legend
 - 🟢 Upcoming / Active
@@ -31,6 +32,7 @@ This repository tracks active and upcoming offers that let you claim free Micros
 
 - **[Microsoft AI Skills Fest 2026](./microsoft-ai-skills-fest-2026/README.md)** — Complete one eligible AI Skills Fest skilling playlist on AI Skills Navigator during June 8–12, 2026 to earn a free Microsoft Certification exam voucher and a Credly digital badge.
 - **[Exam SC-500 (Beta) 80% Off Offer](./exam-sc-500-beta-discount-2026/README.md)** — Be one of the first 300 candidates to take Exam SC-500 (beta) on or before June 8, 2026 and get 80% off using code `VistaSC500`. Earns the Microsoft Certified: Cloud and AI Security Engineer Associate certification.
+- **[60 Days of Data & AI – Free Fabric/SQL Certification](./fabric-dataday-free-certification-2026/README.md)** — Watch 2 Data Days sessions and complete 3 Microsoft Learn modules between June 15 and August 10, 2026 to request a free 100% discount voucher for DP-600, DP-700, or DP-800. Supplies limited, first come first served.
 
 ## 🤝 Contributing
 
