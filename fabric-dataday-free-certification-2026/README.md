@@ -44,6 +44,14 @@ To be eligible for a free voucher, you must complete **all** of the following:
 4. **Agree to the terms and conditions**
 5. **Submit your form by August 10, 2026** (supplies are limited, first come, first served)
 
+## 🎥 Video Walkthrough
+
+Watch the step-by-step guide on how to grab your free certificate:
+
+[▶ Watch: How to Grab Your Free Certificate](0617.mp4)
+
+---
+
 ## 🚀 How to Claim Your Free Voucher (Step-by-Step Guide)
 
 ### Step 1 — Join the Fabric Community
