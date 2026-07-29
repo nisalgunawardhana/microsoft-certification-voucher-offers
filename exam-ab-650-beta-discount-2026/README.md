@@ -4,8 +4,8 @@
 
 Be among the **first 300 people** to take **Exam AB-650 (beta)** on or before **August 18, 2026** and get **80% off** the exam price.
 
-[![Register Now](https://img.shields.io/badge/Register%20Now-Exam%20AB--650%20Beta-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/exams/ab-650?wt.mc_id=studentamb_365539)
-[![Official Docs](https://img.shields.io/badge/Official%20Docs-Microsoft%20Learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/m365-ai-services-administrator-associate?wt.mc_id=studentamb_365539)
+[![Register Now](https://img.shields.io/badge/Register%20Now-Exam%20AB--650%20Beta-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/ai-services-administrator-associate?wt.mc_id=studentamb_365539)
+[![Official Docs](https://img.shields.io/badge/Official%20Docs-Microsoft%20Learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://shorturl.at/w3617)
 
 ## 🎟️ Quick Summary
 
@@ -80,8 +80,8 @@ To receive the discount:
 
 | Resource | Link |
 |----------|------|
-| Exam registration | https://learn.microsoft.com/en-us/credentials/certifications/exams/ab-650?wt.mc_id=studentamb_365539 |
-| Official documentation | https://learn.microsoft.com/en-us/credentials/certifications/m365-ai-services-administrator-associate?wt.mc_id=studentamb_365539 |
+| Exam registration | https://learn.microsoft.com/en-us/credentials/certifications/ai-services-administrator-associate?wt.mc_id=studentamb_365539 |
+| Official documentation | https://shorturl.at/w3617 |
 
 ## ✅ Step-by-Step Checklist
 
