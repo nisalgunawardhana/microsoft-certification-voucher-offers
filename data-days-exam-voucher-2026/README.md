@@ -1,41 +1,63 @@
-# Data Days – Exam Voucher Request (Coming Soon)
+# Data Days: AI @ Work – Exam Voucher Offers
 
-> Request link goes live **November 2, 2026 at 8 AM PT** (**9:30 PM, November 2 in Sri Lanka**)
+> Data Days runs **November 2 – December 15, 2026**. Vouchers are limited, so request yours as soon as you are ready.
 
-Looking for an exam voucher? All **Data Days** exam vouchers go through the **Certification Vouchers page**, so everyone has the same chance.
+[![Register](https://img.shields.io/badge/Register-Data%20Days%202026-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://lnkz.xyz/MOc)
 
-## 🗓️ Key Date
+Request an exam voucher through the **Certification Vouchers page** during Data Days. Each person can request **one** exam voucher, and eligibility requirements apply.
+
+## 🗓️ Key Dates
 
 | Event | Date |
 |-------|------|
-| **Request link goes live** | November 2, 2026, 8 AM PT |
-| **Sri Lanka time (IST)** | November 2, 2026, 9:30 PM |
-| **Status** | 🟢 Coming soon |
+| **Data Days starts** | November 2, 2026 |
+| **Data Days ends** | December 15, 2026 |
+| **Status** | 🟢 Active |
 
 ## ✅ Quick Summary
 
 | Item | Detail |
 |------|--------|
-| What you do | Request an exam voucher on the Certification Vouchers page once the link goes live |
-| Reward | Exam voucher for one of the eligible exams below |
-| Fairness | All Data Days vouchers go through the same page, so everyone has the same chance |
+| What you do | Register for Data Days, then request a voucher on the Certification Vouchers page |
+| Account needed | Free Fabric Community account |
+| Limit | One exam voucher per person |
+| How you get it | Private message on the Fabric Community (not email) |
+| Extensions | Vouchers cannot be extended, so schedule your exam right away |
 
-## 🎯 Eligible Exams
+## 🎯 Voucher Offers
 
-| Exam |
-|------|
-| DP-900 |
-| DP-420 |
-| DP-300 |
-| DP-800 |
-| DP-700 |
-| DP-600 |
-| PL-300 |
+| Take exam by | Coverage | Eligible exams |
+|--------------|----------|----------------|
+| **November 30, 2026** | 100% | DP-800, DP-700, DP-600 |
+| **December 31, 2026** | 100% | DP-800, DP-700, DP-600 |
+| **January 31, 2027** | 50% | PL-300, DP-900, DP-420, DP-300 |
 
 ## 📋 How to Request
 
-1. Come back on **November 3rd** (the link goes live November 2, 2026 at 8 AM PT, which is 9:30 PM in Sri Lanka, and will be added here when it is live)
-2. Open the Certification Vouchers page
-3. Request your exam voucher
+### Step 1 – Register and open Get Certified
 
-> Details are based on the announcement and may change. Check the official Data Days page for the latest eligibility rules.
+1. [![Open Link](https://img.shields.io/badge/Click%20Here-Open%20Link-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://lnkz.xyz/MOc)
+2. Register for Data Days
+3. Click **Explore Certification Resources** under **Get Certified**
+
+![Step 1 – Get Certified](images/ss1.png)
+
+### Step 2 – Review exam voucher offers
+
+Scroll down to **Ready to pass your exam?** and click **Review exam voucher offers**.
+
+![Step 2 – Review exam voucher offers](images/ss2.png)
+
+### Step 3 – Pick your offer
+
+On **Pick your exam voucher offer**, choose the offer that matches your exam and timing, then click **Request my exam voucher**.
+
+![Step 3 – Pick your exam voucher offer](images/ss3.png)
+
+### Step 4 – Get your voucher
+
+1. Fill out the short request form (a free Fabric Community account is required)
+2. Watch your **Fabric Community inbox**. The code arrives by private message, not email
+3. Schedule your exam right away and take it by the date on your offer
+
+> Details are based on the official Data Days pages and may change. Check them for the latest eligibility rules and terms.
