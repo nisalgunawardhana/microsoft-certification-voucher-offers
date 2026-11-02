@@ -1,5 +1,8 @@
 # Data Days: AI @ Work – Exam Voucher Offers
 
+[![Follow me on GitHub](https://img.shields.io/github/followers/nisalgunawardhana?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/nisalgunawardhana)
+[![Star this repo](https://img.shields.io/github/stars/nisalgunawardhana/microsoft-certification-voucher-offers?label=Star%20this%20repo&style=social)](https://github.com/nisalgunawardhana/microsoft-certification-voucher-offers)
+
 > Data Days runs **November 2 – December 15, 2026**. Vouchers are limited, so request yours as soon as you are ready.
 
 [![Register](https://img.shields.io/badge/Register-Data%20Days%202026-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://lnkz.xyz/MOc)
