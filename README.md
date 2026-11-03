@@ -6,10 +6,13 @@ A curated list of opportunities to earn **free Microsoft Certification exam vouc
 
 [![Follow me on GitHub](https://img.shields.io/github/followers/nisalgunawardhana?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/nisalgunawardhana)
 [![Star this repo](https://img.shields.io/github/stars/nisalgunawardhana/microsoft-certification-voucher-offers?label=Star%20this%20repo&style=social)](https://github.com/nisalgunawardhana/microsoft-certification-voucher-offers)
+[![Watch this repo](https://img.shields.io/github/watchers/nisalgunawardhana/microsoft-certification-voucher-offers?label=Watch%20this%20repo&style=social)](https://github.com/nisalgunawardhana/microsoft-certification-voucher-offers/subscription)
 
 ## ⭐ Support This Project
 
 If you find these offers useful, please **[star this repository](https://github.com/nisalgunawardhana/microsoft-certification-voucher-offers)** — it helps more people discover free Microsoft certification opportunities!
+
+🔔 **Never miss a new offer:** click **Watch → All activity** on this repo (or the Watch badge above) to get notified when new vouchers are added. Prefer RSS? Subscribe to the [Atom feed](https://github.com/nisalgunawardhana/microsoft-certification-voucher-offers/commits/main.atom).
 
 ## 📋 Overview
 
@@ -48,7 +51,7 @@ This repository tracks active and upcoming offers that let you claim free Micros
 
 ## 🤝 Contributing
 
-Found a new offer? Add a folder with a `README.md` describing the opportunity, then add a row to the table and an entry to the list above.
+Found a new offer? Follow the step-by-step guide in **[INSTRUCTIONS.md](./INSTRUCTIONS.md)**: create a new branch, add the offer, commit to that branch, and open a pull request to `main`.
 
 ## ⚠️ Disclaimer
 
